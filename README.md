@@ -48,6 +48,6 @@ Melissa Bot Multi Device is a automated whatsapp bot created by <a href="https:/
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/shahimshekh/Queen-Melissa-Beta/blob/main/settings.js)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/shahimshekh/Queen-Melissa-Beta
 
 -------
